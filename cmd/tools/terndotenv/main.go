@@ -36,5 +36,4 @@ func main() {
 	}
 
 	log.Println("Migration executed successfully.")
-	log.Printf("Command output: %s", out.String())
 }
